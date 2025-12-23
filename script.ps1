@@ -1,3 +1,2 @@
 Write-Host "Hola, esto se ejecuta desde GitHub"
-Start-Process notepad
 
